@@ -10,3 +10,4 @@
 4. This program makes tmp folder with newly named image files. And then they are copied to new folder system.
    Then tmp folder is removed.
    So, your remained hard disk volume should be big enough.
+5. If you have any special classes to manage, after defining them at coding, you can get some statistics on them at "create/class_ins_(date).txt" file.
